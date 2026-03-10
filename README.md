@@ -1,2 +1,2 @@
 # chat-app
-Basic chat app
+Basic chat app.
